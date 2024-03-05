@@ -1,5 +1,8 @@
 # django-course
 The sandbox repository for an introductory Django course 
+https://roadmap.sh/python
+[python.pdf](https://github.com/magzhawn/django-course/files/14494171/python.pdf)
+
 
 ### 06.03 (Wednesday): 18:30 - 20:30
 - Learn Python basics
